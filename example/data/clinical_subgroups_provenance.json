@@ -1,0 +1,101 @@
+{
+  "file": "clinical_subgroups.csv",
+  "sha256": "e309425701c73299c02d343cd70e93e16371e7b194fdcc799b88ea9933b21600",
+  "n_samples": 1239,
+  "classification_rules": {
+    "GSE25066": "Existing training HR composite; ER or PR positive, with one existing ESR1 fallback; HER2=0",
+    "GSE194040": "GEO-supplied I-SPY2 HR composite; HER2=0",
+    "other_test_cohorts": "HR+/HER2-: ER or PR positive and HER2=0; TNBC: both ER and PR negative and HER2=0; otherwise Unclassified HR"
+  },
+  "training_ESR1_fallback_n": 1,
+  "GSE230881_unclassified_n": 19,
+  "GSE230881_unclassified_pCR": 6,
+  "label_audit": "All sample IDs and pCR labels match the expression data; no samples removed or outcomes changed",
+  "use": "Clinical labels only; no stored predictions used; no subgroup-specific model fitting",
+  "summary": [
+    {
+      "cohort": "GSE25066",
+      "subgroup": "HR+/HER2-",
+      "size": 296,
+      "sum": 36
+    },
+    {
+      "cohort": "GSE25066",
+      "subgroup": "TNBC",
+      "size": 170,
+      "sum": 57
+    },
+    {
+      "cohort": "GSE163882",
+      "subgroup": "HR+/HER2-",
+      "size": 60,
+      "sum": 11
+    },
+    {
+      "cohort": "GSE163882",
+      "subgroup": "TNBC",
+      "size": 87,
+      "sum": 37
+    },
+    {
+      "cohort": "GSE41998",
+      "subgroup": "HR+/HER2-",
+      "size": 51,
+      "sum": 6
+    },
+    {
+      "cohort": "GSE41998",
+      "subgroup": "TNBC",
+      "size": 57,
+      "sum": 24
+    },
+    {
+      "cohort": "GSE230881",
+      "subgroup": "HR+/HER2-",
+      "size": 128,
+      "sum": 7
+    },
+    {
+      "cohort": "GSE230881",
+      "subgroup": "TNBC",
+      "size": 24,
+      "sum": 9
+    },
+    {
+      "cohort": "GSE230881",
+      "subgroup": "Unclassified HR",
+      "size": 19,
+      "sum": 6
+    },
+    {
+      "cohort": "GSE140494",
+      "subgroup": "HR+/HER2-",
+      "size": 50,
+      "sum": 6
+    },
+    {
+      "cohort": "GSE140494",
+      "subgroup": "TNBC",
+      "size": 19,
+      "sum": 10
+    },
+    {
+      "cohort": "GSE194040",
+      "subgroup": "HR+/HER2-",
+      "size": 91,
+      "sum": 11
+    },
+    {
+      "cohort": "GSE194040",
+      "subgroup": "TNBC",
+      "size": 84,
+      "sum": 16
+    },
+    {
+      "cohort": "GSE231629",
+      "subgroup": "HR+/HER2-",
+      "size": 103,
+      "sum": 10
+    }
+  ]
+}

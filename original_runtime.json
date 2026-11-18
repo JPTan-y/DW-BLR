@@ -1,0 +1,49 @@
+{
+  "python": "3.10.14",
+  "architecture": "64bit",
+  "platform": "Windows",
+  "packages": {
+    "numpy": "1.24.3",
+    "scipy": "1.10.1",
+    "pandas": "2.3.3",
+    "openpyxl": "3.1.5",
+    "scikit-learn": "1.4.2",
+    "torch": "1.12.1",
+    "matplotlib": "3.5.3",
+    "joblib": "1.4.0",
+    "psutil": "5.9.0",
+    "threadpoolctl": "2.2.0",
+    "ipykernel": "6.19.2",
+    "jupyterlab": "3.5.3",
+    "nbformat": "5.9.2",
+    "nbclient": "0.8.0"
+  },
+  "linear_algebra": "Intel MKL",
+  "conda_numeric_builds": [
+    {
+      "name": "intel-openmp",
+      "version": "2021.4.0",
+      "build": "haa95532_3556"
+    },
+    {
+      "name": "mkl",
+      "version": "2021.4.0",
+      "build": "haa95532_640"
+    },
+    {
+      "name": "numpy",
+      "version": "1.24.3",
+      "build": "py310hdc03b94_0"
+    },
+    {
+      "name": "numpy-base",
+      "version": "1.24.3",
+      "build": "py310h3caf3d7_0"
+    },
+    {
+      "name": "scipy",
+      "version": "1.10.1",
+      "build": "py310hb9afe5d_0"
+    }
+  ]
+}

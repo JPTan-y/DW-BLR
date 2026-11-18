@@ -1,0 +1,236 @@
+{
+  "LR": {
+    "Top3": [
+      "NFIB",
+      "SKA1",
+      "RAP2A"
+    ],
+    "Top5": [
+      "NFIB",
+      "SKA1",
+      "RAP2A",
+      "CTPS1",
+      "FEN1"
+    ],
+    "Top10": [
+      "NFIB",
+      "SKA1",
+      "RAP2A",
+      "CTPS1",
+      "FEN1",
+      "ROGDI",
+      "EPHB3",
+      "STMN1",
+      "SLC7A8",
+      "ILF2"
+    ]
+  },
+  "Lasso": {
+    "Top3": [
+      "NFIB",
+      "DEK",
+      "FEN1"
+    ],
+    "Top5": [
+      "NFIB",
+      "DEK",
+      "FEN1",
+      "SKA1",
+      "RAP2A"
+    ],
+    "Top10": [
+      "NFIB",
+      "DEK",
+      "FEN1",
+      "SKA1",
+      "RAP2A",
+      "EPHB3",
+      "PLIN2",
+      "SLC7A8",
+      "ROGDI",
+      "ELF5"
+    ]
+  },
+  "Elastic Net": {
+    "Top3": [
+      "NFIB",
+      "FEN1",
+      "SKA1"
+    ],
+    "Top5": [
+      "NFIB",
+      "FEN1",
+      "SKA1",
+      "DEK",
+      "RAP2A"
+    ],
+    "Top10": [
+      "NFIB",
+      "FEN1",
+      "SKA1",
+      "DEK",
+      "RAP2A",
+      "EPHB3",
+      "SLC7A8",
+      "ROGDI",
+      "PLIN2",
+      "GMNN"
+    ]
+  },
+  "SCAD": {
+    "Top3": [
+      "NFIB",
+      "FEN1",
+      "DEK"
+    ],
+    "Top5": [
+      "NFIB",
+      "FEN1",
+      "DEK",
+      "SKA1",
+      "RAP2A"
+    ],
+    "Top10": [
+      "NFIB",
+      "FEN1",
+      "DEK",
+      "SKA1",
+      "RAP2A",
+      "EPHB3",
+      "SLC7A8",
+      "PLIN2",
+      "ROGDI",
+      "ELF5"
+    ]
+  },
+  "DWR": {
+    "Top3": [
+      "ROGDI",
+      "SLC7A8",
+      "SKA1"
+    ],
+    "Top5": [
+      "ROGDI",
+      "SLC7A8",
+      "SKA1",
+      "NFIB",
+      "CCNA2"
+    ],
+    "Top10": [
+      "ROGDI",
+      "SLC7A8",
+      "SKA1",
+      "NFIB",
+      "CCNA2",
+      "TSPAN1",
+      "FBXO5",
+      "KCNK15",
+      "SFRP1",
+      "CTPS1"
+    ]
+  },
+  "SRDO": {
+    "Top3": [
+      "FBXO5",
+      "SKA1",
+      "ROGDI"
+    ],
+    "Top5": [
+      "FBXO5",
+      "SKA1",
+      "ROGDI",
+      "EPHB3",
+      "NFIB"
+    ],
+    "Top10": [
+      "FBXO5",
+      "SKA1",
+      "ROGDI",
+      "EPHB3",
+      "NFIB",
+      "CTPS1",
+      "SLC22A5",
+      "MCM2",
+      "CCNA2",
+      "ANP32B"
+    ]
+  },
+  "SVI": {
+    "Top3": [
+      "DEK",
+      "EPHB3",
+      "SKA1"
+    ],
+    "Top5": [
+      "DEK",
+      "EPHB3",
+      "SKA1",
+      "ROGDI",
+      "GLI3"
+    ],
+    "Top10": [
+      "DEK",
+      "EPHB3",
+      "SKA1",
+      "ROGDI",
+      "GLI3",
+      "CDC45",
+      "FBXO5",
+      "CCNA2",
+      "SERBP1",
+      "CTPS1"
+    ]
+  },
+  "VBLR": {
+    "Top3": [
+      "DEK",
+      "NFIB",
+      "FEN1"
+    ],
+    "Top5": [
+      "DEK",
+      "NFIB",
+      "FEN1",
+      "SLC7A8",
+      "STMN1"
+    ],
+    "Top10": [
+      "DEK",
+      "NFIB",
+      "FEN1",
+      "SLC7A8",
+      "STMN1",
+      "RAP2A",
+      "SKA1",
+      "MLPH",
+      "PLIN2",
+      "CHST15"
+    ]
+  },
+  "DW-BLR": {
+    "Top3": [
+      "CA12",
+      "DEK",
+      "FEN1"
+    ],
+    "Top5": [
+      "GATA3",
+      "CA12",
+      "FBXO5",
+      "DEK",
+      "FEN1"
+    ],
+    "Top10": [
+      "NFIB",
+      "CCNA2",
+      "GATA3",
+      "CA12",
+      "CTPS1",
+      "FBXO5",
+      "DEK",
+      "SLC7A8",
+      "FEN1",
+      "STMN1"
+    ]
+  }
+}
